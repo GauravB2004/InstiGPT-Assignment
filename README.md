@@ -5,8 +5,8 @@
 ## Features
 
 - User Authentication
-- Real-time messaging or 
-- Session management or 
+- Real-time messaging  
+- Session management 
 
 
 ## Technologies Used
@@ -18,9 +18,9 @@
 
 ## Prerequisites
 
- Node.js, npm, MongoDB, Express, mongoose, cors
+ Node.js, npm, MongoDB Atlas, Express, mongoose, cors
 
-## Getting Started
+
 
 # Getting Started with Create React App
 
